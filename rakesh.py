@@ -1,6 +1,7 @@
 def rakhi():
     print("test for rakesh")
-rakhi()
+    print("rakesh forgot to give code .a")
+    rakhi()
 
 
 
